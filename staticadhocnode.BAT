@@ -1,0 +1,1 @@
+..\simu -mstaticadhocnode.ma -t00:01:50:000 -lstaticadhocnode.log

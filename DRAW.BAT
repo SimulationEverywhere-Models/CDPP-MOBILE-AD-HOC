@@ -1,0 +1,1 @@
+..\drawlog -mstaticadhocnode.ma -cstaticadhocnode -lstaticadhocnode.log -w1 -p0 -0 >staticadhocnode.DRW
